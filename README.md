@@ -224,10 +224,6 @@ RAZOR_KEY_SECRET = "your_secret_key"
 
 Python Developer | Django Developer | Web Developer
 
-GitHub: https://github.com/your-github-username
-
-LinkedIn: https://linkedin.com/in/your-linkedin-profile
-
 ---
 
 ## 📄 License
@@ -235,3 +231,6 @@ LinkedIn: https://linkedin.com/in/your-linkedin-profile
 This project is developed for educational and learning purposes.
 
 ⭐ If you found this project useful, please give it a star on GitHub.
+
+
+
